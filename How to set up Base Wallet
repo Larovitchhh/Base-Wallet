@@ -1,0 +1,15 @@
+Creating and configuring a Base Wallet is simple and can be done in a few steps using the Base App or other EVM-compatible wallets like MetaMask. Here’s a quick guide to setting up the Base Wallet using the Base App:
+
+Download the Base App  Visit the iOS App Store, Google Play Store, or Coinbase’s official website to download the Base App for mobile or the browser extension.
+
+Create a New Wallet  Open the app and select “Create New Wallet.”  
+Generate and securely store your 12-word recovery phrase (seed phrase). This phrase is critical for recovering your wallet, so write it down and store it offline in a safe place.  
+Set a secure PIN for quick access to the wallet.
+
+Connect to the Base Network  The Base App natively supports the Base network, so no manual configuration is needed. If using MetaMask or another EVM-compatible wallet, manually add the Base mainnet by entering the network details (available on Base’s official website or ChainList).
+
+Fund Your Wallet  Navigate to the “Receive” page to find your Base wallet address.  
+Purchase Base ETH or other tokens using a credit card via the app’s OTC service or bridge assets from Ethereum L1 or other chains using protocols like Bitget Swap.
+
+Start Exploring  Once funded, you can send, receive, swap tokens, interact with dApps, or engage in social features like posting and earning rewards.
+
